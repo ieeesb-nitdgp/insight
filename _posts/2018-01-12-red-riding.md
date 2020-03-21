@@ -2,7 +2,7 @@
 layout: post
 title:  "Red Riding Hood"
 author: Payel
-categories: [ Jekyll, tutorial ]
+categories: [ web development, 5G ]
 image: assets/images/1.jpg
 last_added: true
 
