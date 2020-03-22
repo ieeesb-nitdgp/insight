@@ -3,7 +3,7 @@ layout: post
 title:  "Bluetooth Low Energy Audio"
 author: Arka
 categories: [ Bluetooth, Communications, UHF Radio Waves]
-image: assets/images/ble2.JPG
+image: assets/images/ble2.png
 last_added: true
 hidden: false
 ---
