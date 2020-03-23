@@ -4,7 +4,7 @@ title:  "Bluetooth Low Energy Audio"
 author: Arka
 categories: [ Bluetooth, Communications, UHF Radio Waves]
 image: assets/images/ble2.png
-last_added: true
+last_added: false
 hidden: false
 ---
 Bluetooth Low Energy Audio, debuted at the CES 2020 along with Bluetooth 5.2,

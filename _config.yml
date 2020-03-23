@@ -18,7 +18,7 @@ authors:
     name: Payel
     display_name: Payel Bose
     avatar: 'assets/images/payel.jpg'
-    description: "A creative mind with analytical skills who is interested in creating new designs alongside technical stuff like coding."
+    description: "A creative thinker and graphics designer. Hope to code with coffee one day🤔"
   Shubhangee:
     name: Shubhangee
     display_name: Shubhangee
@@ -68,12 +68,12 @@ authors:
     name: Vaishali
     display_name: Vaishali Barua
     avatar: 'assets/images/vaishali.jpg'
-    description: ""
+    description: "A tech enthusiast, learning designer, budding writer and a passionate basketball player."
   Santam:
     name: Santam
     display_name: Santam Roy Choudhury
     avatar: 'assets/images/santam.jpg'
-    description: ""
+    description: "A buddying software developer and amateur night sky observer. Plan to make an atom bomb some day😉."
 
 # Plugins
 plugins:
