@@ -6,7 +6,7 @@ logo: 'assets/images/front_banner.png'
 big_logo: 'assets/images/banner_big.png'
 favicon: 'assets/images/logo.png'
 baseurl:
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-154066599-2'
 disqus: 'insightieee'
 mailchimp-list: 'https://github.us19.list-manage.com/subscribe?u=b7dcc89b774fb7b6ce34f29f9&id=c8b757bbd2'
 include: ["_pages"]
