@@ -22,7 +22,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/payel.jpg" alt="card image"></p>
                                     <h4 class="card-title">Payel Bose</h4>
                                     <p class="card-text">Creirdo</p>
-                                    <a class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i> <i class="fas fa-palette"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/tanujit.jpg" alt="card image"></p>
                                     <h4 class="card-title">Tanujit Ghosh</h4>
                                     <p class="card-text">Diligent</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/disha.jpg" alt="card image"></p>
                                     <h4 class="card-title">Disha Sharma</h4>
                                     <p class="card-text">Versatile</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i> <i class="fas fa-palette"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -100,7 +100,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/arka.jpg" alt="card image"></p>
                                     <h4 class="card-title">Arka Seth</h4>
                                     <p class="card-text">Passionate</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/vaishali.jpg" alt="card image"></p>
                                     <h4 class="card-title">Vaishali Barua</h4>
                                     <p class="card-text">Adventurous</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -151,7 +151,7 @@ comments: false
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/soumya.JPG" alt="card image"></p>
                                     <h4 class="card-title">Soumya Chatterjee</h4>
                                     <p class="card-text">Adaptable</p>
-                                    <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                                    <a><i class="fas fa-pen-alt"></i></a>
                                 </div>
                             </div>
                         </div>
