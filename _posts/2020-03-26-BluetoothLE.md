@@ -27,3 +27,7 @@ The SIG are also working on Broadcast Audio, which will enable streaming of the 
 
 ## When can we use it ?
 With any such new technology, it does take some time till it reaches the end consumers. It is expected that this technology might start appearing on chipsets by early to mid-2020, but widespread integration into consumer devices might take a year or two. Early adoption might be possible, but it will take at least half a year according to industry estimates.
+
+### References
+
+[1] <a href="https://www.androidpolice.com/2020/01/07/bluetooth-le-audio/?amp" target="_blank">https://www.androidpolice.com/2020/01/07/bluetooth-le-audio/</a>

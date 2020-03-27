@@ -90,3 +90,11 @@ susceptible?**
 People of all ages can be infected by the new coronavirus (2019-nCoV). Older people and
 people with pre-existing medical conditions (such as asthma, diabetes, heart disease) appear
 to be more vulnerable to becoming severely ill with the virus.
+
+### References
+
+[1] <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" target="_blank">https://www.who.int/emergencies/diseases/novel-coronavirus-2019</a>
+
+[2] <a href="https://www.washingtonpost.com/coronavirus/" target="_blank">https://www.washingtonpost.com/coronavirus/</a>
+
+[3] <a href="https://www.reuters.com/article/us-health-coronavirus-snapshot/what-you-need-to-know-about-the-coronavirus-idUSKBN21D1NK" target="_blank">Reuters: COVID-19</a>
