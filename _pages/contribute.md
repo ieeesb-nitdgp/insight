@@ -29,6 +29,9 @@ The entries are encouraged to contain pictures to make the blog interesting for 
 There is no word limit for the blog, but the entries must ensure the content do not exceed 1000 words.
 </li>
 <li>
+The entry must be in pdf format.
+</li>
+<li>
 All entries must be sent to <a href="mailto:insight@ieeesbnitdgp.com">insight@ieeesbnitdgp.com</a>.
 </li>
 </ul>
