@@ -7,7 +7,7 @@ image: assets/images/CollegeBreak.jpg
 last_added: true
 hidden: false
 ---
-After our semester examinations end, we return home for a month or two. Many of the students have already planned everything about how they are going to use this time judiciously, while many are completely in the dark. This article is meant to provide you with some ideas as to make good use of this vital time in your college lives.
+After our semester examinations end, we return home for a month or two. Many of the students have already planned everything about how they are going to use this time judiciously, while many are completely in the dark. This article is meant to provide you with some ideas to make good use of this vital time in your college lives.
 
 ![](https://github.com/monsij/insight/raw/master/assets/images/mainpic.jpg)
 
@@ -15,7 +15,7 @@ After our semester examinations end, we return home for a month or two. Many of 
 ## Create and update your LinkedIn account :
 ![](https://github.com/monsij/insight/raw/master/assets/images/linkedin.png)
 
-This vacation, remember to update your LinkedIn profile. LinkedIn is a very important platform for professionals and students. Many companies skim through LinkedIn for prospective employees and many job profiles require a LinkedIn account just to apply. Also don't forget to upload a professional profile picture.
+This vacation, remember to update your LinkedIn profile. LinkedIn is a very important platform for professionals and students. Many companies skim through LinkedIn for prospective employees and many job profiles require a LinkedIn account just to apply. Also, don't forget to upload a professional profile picture.
 
 
 ##Make or Update your resume :
@@ -37,10 +37,10 @@ Are you one among the book lovers?
 You can utilize this time to sell old books that you don’t need anymore. You’ll gain valuable real estate while also getting some money. Apart from selling you can exchange old books among your friends and relatives and have a good reading experience.
 
 
-##Do some online courses:
+##Take up online courses:
 ![](https://github.com/monsij/insight/raw/master/assets/images/course.png)
 
-Let’s be honest, most of us are hardly learning anything in college classrooms while struggling with boring curriculums. This is the time to learn things that you couldn’t understand in class, or even topics which are not there in the curriculum. Websites like Udemy, Coursera, edX, Udacity and Pluralsight are some of the great for learning.
+Let’s be honest, most of us are hardly learning anything in college classrooms while struggling with boring curriculums. This is the time to learn things that you couldn’t understand in class or even topics that are not there in the curriculum. Websites like Udemy, Coursera, edX, Udacity and Pluralsight are some of the great platforms for learning new skills.
 
 
 ##Think out of the box and participate in innovation challenges or hackathons:
