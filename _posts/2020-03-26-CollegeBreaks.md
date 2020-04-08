@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "HOW TO UTILISE COLLEGE BREAKS EFFECTIVELY"
+title:  "UTILIZING COLLEGE BREAKS EFFECTIVELY"
 author: Arka
 categories: [ College Breaks, Getting Started, Time Utilization]
 image: assets/images/CollegeBreak.jpg
 last_added: true
 hidden: false
 ---
-![](https://github.com/monsij/insight/raw/master/assets/images/mainpic.jpg)
-
-##Introduction :
-
 After our semester examinations end, we return home for a month or two. Many of the students have already planned everything about how they are going to use this time judiciously, while many are completely in the dark. This article is meant to provide you with some ideas as to make good use of this vital time in your college lives.
+
+![](https://github.com/monsij/insight/raw/master/assets/images/mainpic.jpg)
 
 
 ## Create and update your LinkedIn account :
