@@ -4,7 +4,9 @@ title:  "Bluetooth Low Energy Audio"
 author: Arka
 categories: [ Bluetooth, Communications, UHF Radio Waves]
 image: assets/images/ble2.png
-last_added: true
+wide_image: assets/images/ble2.png
+thumb_image: assets/images/ble2.png
+last_added: false
 hidden: false
 ---
 Bluetooth Low Energy Audio, debuted at CES 2020 along with Bluetooth 5.2, promises new levels of audio fidelity with even lower bitrates than current Bluetooth audio codecs use.
@@ -31,3 +33,7 @@ With any such new technology, it does take some time till it reaches the end con
 ### References
 
 [1] <a href="https://www.androidpolice.com/2020/01/07/bluetooth-le-audio/?amp" target="_blank">https://www.androidpolice.com/2020/01/07/bluetooth-le-audio/</a>
+
+
+> **Note** :
+Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.

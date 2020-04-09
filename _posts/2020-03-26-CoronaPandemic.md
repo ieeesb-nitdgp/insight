@@ -4,6 +4,8 @@ title:  "The Corona Pandemic"
 author: Vaishali
 categories: [ WHO, Pandemic, Health]
 image: assets/images/Corona.jpg
+wide_image: assets/images/Corona.jpg
+thumb_image: assets/images/Corona_thumb.jpg
 last_added: true
 hidden: false
 ---
@@ -98,3 +100,7 @@ to be more vulnerable to becoming severely ill with the virus.
 [2] <a href="https://www.washingtonpost.com/coronavirus/" target="_blank">https://www.washingtonpost.com/coronavirus/</a>
 
 [3] <a href="https://www.reuters.com/article/us-health-coronavirus-snapshot/what-you-need-to-know-about-the-coronavirus-idUSKBN21D1NK" target="_blank">Reuters: COVID-19</a>
+
+
+> **Note** :
+Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.
