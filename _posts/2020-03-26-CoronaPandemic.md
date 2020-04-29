@@ -6,7 +6,7 @@ categories: [ WHO, Pandemic, Health]
 image: assets/images/Corona.jpg
 wide_image: assets/images/Corona.jpg
 thumb_image: assets/images/Corona_thumb.jpg
-last_added: true
+last_added: false
 hidden: false
 ---
 More than **276,472** established cases of COVID-19 have been reported worldwide so far. The spread of the coronavirus—now legitimately named SARS-CoV-2— has been almost parallel to the spread of misinformation, hindering efforts to educate and protect the global community. First let us get the terms straight: SARS-CoV-2 is the name of the virus that’s spreading; COVID-19 is the name of the disease it causes. Most media reports use the term ‘Corona Virus’ to describe the SARS-CoV-2. However, Coronaviruses are an entire family of viruses which are accountable for causing illness such as the common cold and in severe cases diseases such as Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).
