@@ -6,7 +6,7 @@ categories: [College Breaks, Getting Started, Productivity]
 image: assets/images/CollegeBreak.jpg
 wide_image: assets/images/mainpic.jpg
 thumb_image: assets/images/CollegeBreak.jpg
-last_added: true
+last_added: false
 hidden: false
 ---
 After our semester examinations end, we return home for a month or two. Many of the students have already planned everything about how they are going to use this time judiciously, while many are completely in the dark. This article is meant to provide you with some ideas to make good use of this vital time in your college lives.
