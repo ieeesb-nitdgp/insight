@@ -11,7 +11,7 @@ hidden: false
 ---
 ## Is game-streaming the next boom in the gaming industry?
 
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream1.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream1.jpg)
 
 Google Stadia was released on 19th of November, 2019. After garnering a lot of pre-release hype and attention, it received a mixed response on its full release. But Google Stadia is just one in a big bunch of similar services vying to get your money. If you’re feeling overwhelmed, fret not; we have tried to list all the details, pros and cons of the major services for you under a single article.
 
@@ -30,7 +30,7 @@ Google Stadia was released on 19th of November, 2019. After garnering a lot of p
     This service is not available in India yet, but we can hope for it to arrive soon.<br>
     For people having a decent rig (with a GeForce GTX graphics card) that can run games well but you can’t access it physically, Nvidia GameStream might be a better option. This service streams games directly from your PC, and has a greater compatibility with controllers and less specific network requirements than GeForce Now.
     
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream2.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream2.jpg)
 
 2. ### Google Stadia:
 
@@ -42,7 +42,7 @@ Google Stadia was released on 19th of November, 2019. After garnering a lot of p
     Unlike GeForce Now, this has maximum resolution support of 4k at 60 fps. Interestingly, there is a more visible latency on this platform as compared to GeForce Now. Anti-aliasing is so forced at times that finer details are lost. Grass looks as if it is smudged across the screen. Post-processing is also worse than that in GeForce Now. Overall quality-wise Google Stadia tends to be worse-off than its competition.
 
 <p align="center">
-  <img src="https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream3.jpg">
+  <img src="https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream3.jpg">
 </p>
 
 3. ### Project xCloud and Xbox App:
@@ -51,21 +51,21 @@ Google Stadia was released on 19th of November, 2019. After garnering a lot of p
     
     Microsoft stated that it is working with Jio to release it in India by the end of the year. We can only wait and watch.
     
-    ![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream4.jpg)
+    ![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream4.jpg)
     
     The Xbox app is pre-installed on Windows 10 machines, and allows you to stream games you own on an Xbox One, One S or One X directly to your Windows PC. You can use all features like in-game chat and even use an Oculus Rift to experience VR gameplay.
 
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream5.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream5.jpg)
 
 4. ### Sony PlayStation Now and PS4 Remote Play:
 
     PlayStation Now is the oldest such service in this list. It has been available since 2014, and as a result, has had a lot of time to mature. This is supported on either a PlayStation or Windows PC. Mac devices not supported. This has the biggest library of games out of all the four services, with over 200 games in its arsenal from the PlayStation 2, 3, and 4 eras. Like the others, this is also a subscription-based service, with cost ranging from $5 to $10 per month according to the length of plan you choose. Streaming is limited to 720p only, but the video quality looks surprisingly good for a 720p output. Again, latency depends on your Internet connection. This supports any controller that can be used on a PlayStation or a Windows PC. Like Microsoft, Sony is also gearing up to launch PS Now in India later this year.
     
-    ![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream6.jpg)
+    ![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream6.jpg)
 
     PS4 Remote Play allows you to stream games from your PS4 console to your desktop and a few Xperia phones. It is practically the same as the Xbox app, but you need to own the DualShock 4 controller, which you of course will if you have a PS4.
     
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream7.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream7.jpg)
     
 5. ### Steam Link and Steam Link Anywhere:
 
@@ -74,7 +74,7 @@ Google Stadia was released on 19th of November, 2019. After garnering a lot of p
     *Steam Link Anywhere* allows you to play games you already own on Steam, remotely on an Android device, or the ill-fated Steam Link box. The games will run on your own PC, but you will be able to play the games anywhere, unlike Steam Link which requires both devices to 
 be connected on the same network.
 
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream8.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream8.jpg)
 
 ## To summarize everything in the form of a table:
 **Streaming Service**|**Streams to**|**Streams from**|**Internet connection**|**Max display output**|**Cost**|**Game library**
@@ -91,7 +91,7 @@ Xbox App|Windows 10|Your Xbox One|Home network|1080p at 60fps|Free|Your Xbox gam
   
 ## What is the best option for you?
 
-![](https://github.com/sagar-wal/insight/raw/Game-Stream-md-Upload/assets/images/Game-Stream-Images/gamestream9.jpg)
+![](https://github.com/monsij/insight/raw/master/assets/images/Game-Stream-Images/gamestream9.jpg)
 
 Making the choice can be overwhelming. Choose the service based on what games you want to play, what matters to you, and most importantly affordability. Not every service is released in every region as of publication of this article, so keep that in mind.
 
