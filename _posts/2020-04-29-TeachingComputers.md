@@ -6,7 +6,7 @@ categories: [ Image Recognition, AI, ML, DL, Neural Networks, CNN ]
 image: assets/images/imgrecog.png
 wide_image: assets/images/imgrecog.png
 thumb_image: assets/images/imgrecogb.png
-last_added: true
+last_added: false
 hidden: false
 ---
 Let's look at two images to get started with:  
