@@ -97,7 +97,7 @@ Making the choice can be overwhelming. Choose the service based on what games yo
 
 ### References
 
-[1] <a href="https://www.theverge.com/2019/4/18/18274498/game-streaming-services-pc-mac-ps4-android-cloud-google-stadia" target="_blank" style="font-size: 1rem;" >https://www.theverge.com/2019/4/18/18274498/game-streaming-services-pc-mac-ps4-android-cloud-google-stadia</a>
+[1] <a href="https://www.theverge.com/2019/4/18/18274498/game-streaming-services-pc-mac-ps4-android-cloud-google-stadia" target="_blank" style="overflow-wrap: anywhere;" >https://www.theverge.com/2019/4/18/18274498/game-streaming-services-pc-mac-ps4-android-cloud-google-stadia</a>
 
 > **Note** :
 Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.
