@@ -138,19 +138,20 @@ existing financial system. Others argue that cryptocurrencies will always be a s
 Cryptocurrencies will change the world. Step by step. You can either stand beside and observe,
 or you can become a part of history in the making. As said by Rick Falkvinge “Bitcoin will do to
 banks what email did to the postal industry.”
+
 <img src="/assets/images/cryptocur_images/cryptocur9.jpg" width="500"/>
 
 ### References
 
-1] <a href="https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies/amp" target="_blank" style="overflow-wrap: anywhere;">https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies/amp</a>
+1. <a href="https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies/amp" target="_blank" style="overflow-wrap: anywhere;">https://cointelegraph.com/bitcoin-for-beginners/what-are-cryptocurrencies/amp</a>
 
-2] <a href="https://www.investopedia.com/terms/c/cryptocurrency.asp" target="_blank" style="overflow-wrap: anywhere;">https://www.investopedia.com/terms/c/cryptocurrency.asp</a>
+2. <a href="https://www.investopedia.com/terms/c/cryptocurrency.asp" target="_blank" style="overflow-wrap: anywhere;">https://www.investopedia.com/terms/c/cryptocurrency.asp</a>
 
-3] <a href="https://blockgeeks.com/guides/what-is-cryptocurrency/" target="_blank" style="overflow-wrap: anywhere;">https://blockgeeks.com/guides/what-is-cryptocurrency/</a>
+3. <a href="https://blockgeeks.com/guides/what-is-cryptocurrency/" target="_blank" style="overflow-wrap: anywhere;">https://blockgeeks.com/guides/what-is-cryptocurrency/</a>
 
-4] <a href="https://www.binance.vision/blockchain/what-is-cryptocurrency?amp=1" target="_blank" style="overflow-wrap: anywhere;">https://www.binance.vision/blockchain/what-is-cryptocurrency?amp=1</a>
+4. <a href="https://www.binance.vision/blockchain/what-is-cryptocurrency?amp=1" target="_blank" style="overflow-wrap: anywhere;">https://www.binance.vision/blockchain/what-is-cryptocurrency?amp=1</a>
 
-5] <a href="https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/" target="_blank" style="overflow-wrap: anywhere;">https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/</a>
+5. <a href="https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/" target="_blank" style="overflow-wrap: anywhere;">https://www.moneycrashers.com/cryptocurrency-history-bitcoin-alternatives/</a>
 
 > **Note** :
 Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.
