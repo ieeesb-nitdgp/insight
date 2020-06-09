@@ -20,6 +20,12 @@ authors:
     avatar: 'assets/images/arindam.jpg'
     description: ""
     member: "true"
+  Aman:
+    name: Aman
+    display_name: Aman Kumar
+    avatar: 'assets/images/Aman_kumar.jpg'
+    description: ""
+    member: "true"
   Aneek:
     name: Aneek
     display_name: Aneek Biswas
