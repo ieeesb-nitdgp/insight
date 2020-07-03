@@ -6,7 +6,7 @@ categories: [ Blockchain, Cryptocurrency, Decentralized, Bitcoin, Ethereum]
 image: assets/images/cryptocur_images/cryptothumbsqr.png
 thumb_image: assets/images/cryptocur_images/cryptothumbsqr.png
 wide_image: assets/images/cryptocur_images/cryptothumbwide.png
-last_added: true
+last_added: false
 hidden: false
 ---
 
