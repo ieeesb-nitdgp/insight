@@ -30,19 +30,19 @@ authors:
     name: Aneek
     display_name: Aneek Biswas
     avatar: 'assets/images/Aneek2.jpg'
-    description: "A third year Civil Engineering undergraduate at NIT Durgapur with a keen interest in Structural Engineering and Concrete Technology"
+    description: "A Final year Civil Engineering undergraduate at NIT Durgapur with a keen interest in Structural Engineering and Concrete Technology"
     member: "false"
   Dayeeta:
     name: Dayeeta
     display_name: Dayeeta Pal
     avatar: 'assets/images/Dayeeta.jpg'
-    description: "A third year MME undergraduate at NIT Durgapur with a keen interest in the field of biomaterials."
+    description: "A Final year MME undergraduate at NIT Durgapur with a keen interest in the field of biomaterials."
     member: "false"
   Anurag:
     name: Anurag
     display_name: Anurag Sarkar
     avatar: 'assets/images/Anurag.jpg'
-    description: ""
+    description: "Biomedical Engineering Enthusiast, ML Enthusiast, NLP Enthusiast."
     member: "true"
   Payel:
     name: Payel
