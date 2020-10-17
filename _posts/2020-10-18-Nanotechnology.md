@@ -2,7 +2,16 @@
 layout: post
 title: "Nanotechnology"
 author: Akshat
-categories: [Nanotechnology, Nanoscience]
+categories:
+  [
+    Nanotechnology,
+    Nanoscience,
+    Nanoscale,
+    Carbon nanotubes,
+    Catalytic mechanism,
+    Glucose detection app,
+    Nano devices,
+  ]
 image: assets/images/Nanotechnology_images/title1024X617.png
 wide_image: assets/images/Nanotechnology_images/title1024X617.png
 thumb_image: assets/images/Nanotechnology_images/title500X500.png
@@ -88,3 +97,6 @@ Researchers from **IIT Kharagpur** have developed a pocket-friendly diagnostic d
 - [https://www.explainthatstuff.com/nanotechnologyforkids.html](https://www.explainthatstuff.com/nanotechnologyforkids.html)
 - [https://www.nanowerk.com/spotlight/spotid=6371.php](https://www.nanowerk.com/spotlight/spotid=6371.php)
 - [https://www.hindustantimes.com/education/iit-kharagpur-researchers-develop-low-cost-blood-test-device/story-R34urfvh4dFneUo3MnozoK.html](https://www.hindustantimes.com/education/iit-kharagpur-researchers-develop-low-cost-blood-test-device/story-R34urfvh4dFneUo3MnozoK.html)
+
+> **Note** :
+> Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.

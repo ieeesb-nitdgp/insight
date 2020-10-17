@@ -95,8 +95,8 @@ authors:
   Akshat:
     name: Akshat
     display_name: Akshat Bhatnagar
-    avatar: 
-    description: 
+    avatar: 'assets/images/Akshat.jpg'
+    description: "Love to play with technology and innovating new stuffs!"
     member: "true"
   Aman:
     name: Aman
