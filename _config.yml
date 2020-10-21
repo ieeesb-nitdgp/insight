@@ -92,6 +92,12 @@ authors:
     avatar: 'assets/images/sagar.jpeg'
     description: "An enthusiastic techie. Interested in Artificial Intelligence and Web Development. Love to learn more and more about technology. "
     member: "true"
+  Akshat:
+    name: Akshat
+    display_name: Akshat Bhatnagar
+    avatar: 'assets/images/Akshat.jpg'
+    description: "Love to play with technology and innovating new stuffs!"
+    member: "true"
   Aman:
     name: Aman
     display_name: Aman Agarwal
