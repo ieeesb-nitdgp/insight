@@ -19,7 +19,7 @@ last_added: true
 hidden: false
 ---
 
-Imagine, you were blessed with some super-powers one day by which you shrunk yourself around 1500 million times! Now if you notice the things around you, they will not be like the normal things that you usually encounter, but you will be able to observe the atoms and molecules which are the fundamental elements for everything! If you zoom into the "nanoscale," you will not only see the atoms that everything is made from but also you will be able to work out with them! Fabricating and developing new things at the “nanoscale” level is what we call **_nanotechnology_**. It is the fastest- growing subject nowadays!
+Imagine, you were blessed with some super-powers one day by which you shrunk yourself around 1500 million times! Now if you notice the things around you, they will not be like the normal things that you usually encounter, but you will be able to observe the atoms and molecules which are the fundamental elements for everything! If you zoom into the "nanoscale," you will not only see the atoms that everything is made from but also you will be able to work out with them! Fabricating and developing new things at the “nanoscale” level is what we call **_Nanotechnology_**. It is the fastest- growing subject nowadays!
 
 ### How big is Nano ?
 
