@@ -19,6 +19,35 @@ comments: false
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/sayan.jpg" alt="card image"></p>
+                                    <h4 class="card-title">Sayan Mondal</h4>
+                                    <p class="card-text">Optimist</p>
+                                    <a><i class="fas fa-pen-alt"></i> <i class="fas fa-palette"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Web Design </h4>
+                                    <p class="card-text"> Just another speck of stardust trying to find purspose in the multiverse of chaos. </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Team member -->
+
+
+
+            <!-- Team member -->
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
                                     <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/payel.jpg" alt="card image"></p>
                                     <h4 class="card-title">Payel Bose</h4>
                                     <p class="card-text">Creirdo</p>
@@ -31,32 +60,6 @@ comments: false
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">Creative Design | Content</h4>
                                     <p class="card-text">A creative thinker and graphics designer. Hope to code with coffee one day🤔</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- ./Team member -->
-            <!-- Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/tanujit.jpg" alt="card image"></p>
-                                    <h4 class="card-title">Tanujit Ghosh</h4>
-                                    <p class="card-text">Diligent</p>
-                                    <a><i class="fas fa-pen-alt"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Content</h4>
-                                    <p class="card-text">Technologist.Gamer.Coder.Interested in web development,learning new technologies</p>
                                 </div>
                             </div>
                         </div>
@@ -142,35 +145,12 @@ comments: false
                 </div>
             </div>
             <!-- ./Team member -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
-                    <div class="mainflip">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/soumya.JPG" alt="card image"></p>
-                                    <h4 class="card-title">Soumya Chatterjee</h4>
-                                    <p class="card-text">Adaptable</p>
-                                    <a><i class="fas fa-pen-alt"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Content</h4>
-                                    <p class="card-text">Mainly working on quantum communication and computing, also interested in cosmology and space science. </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        
             <!-- ./Team member -->
 
         </div>
     </div>
-    <h5 class="section-title h1"><a target="_blank" href="http://www.ieeesbnitdgp.com/thereg/members/">And many more ...</a></h5>
+    <h5 class="section-title h1"><a target="_blank" href="https://www.ieeesbnitdgp.com/members">And many more ...</a></h5>
 </section>
 <!-- Team -->
 </body>
