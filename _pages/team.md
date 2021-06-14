@@ -12,6 +12,38 @@ comments: false
     <div class="container">
         <h5 class="section-title h1">Meet the minds behind Insight</h5>
         <div class="row">
+
+            <!-- Team member -->
+
+            <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                    <div class="mainflip">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" img-fluid" src="{{site.baseurl}}/assets/images/santam.jpg" alt="card image"></p>
+                                    <h4 class="card-title">Santam Roy Chowdhury</h4>
+                                    <p class="card-text">Diligent</p>
+                                    <a><i class="fas fa-pen-alt"></i> <i class="fas fa-palette"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title">Creative Web Design | Content</h4>
+                                    <p class="card-text">Wanna code with coffee one day☕️ Tabs over spaces ❤️️.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Team member -->
+
+
+
             <!-- Team member -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
@@ -29,7 +61,7 @@ comments: false
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Web Design </h4>
+                                    <h4 class="card-title">Web Developer </h4>
                                     <p class="card-text"> Just another speck of stardust trying to find purspose in the multiverse of chaos. </p>
                                 </div>
                             </div>
