@@ -2,7 +2,7 @@
 layout: post
 title:  "Teaching Computers to Understand Pictures"
 author: Arindam
-categories: [ Image Recognition, AI, ML, DL, Neural Networks, CNN ]
+categories: [ARTIFICIAL INTELLIGENCE]
 image: assets/images/imgrecog.png
 wide_image: assets/images/imgrecog.png
 thumb_image: assets/images/imgrecogb.png
