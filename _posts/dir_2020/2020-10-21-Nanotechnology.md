@@ -3,15 +3,7 @@ layout: post
 title: "Nanotechnology"
 author: Akshat
 categories:
-  [
-    Nanotechnology,
-    Nanoscience,
-    Nanoscale,
-    Carbon nanotubes,
-    Catalytic mechanism,
-    Glucose detection app,
-    Nano devices,
-  ]
+  [NANOSCIENCE]
 image: assets/images/Nanotechnology_images/title1024X617.png
 wide_image: assets/images/Nanotechnology_images/title1024X617.png
 thumb_image: assets/images/Nanotechnology_images/thumb500x500.png

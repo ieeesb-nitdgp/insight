@@ -2,7 +2,7 @@
 layout: post
 title:  "Cryptocurrency Decrypted"
 author: Amank
-categories: [ Blockchain, Cryptocurrency, Decentralized, Bitcoin, Ethereum]
+categories: [BLOCKCHAIN]
 image: assets/images/cryptocur_images/cryptothumbsqr.png
 thumb_image: assets/images/cryptocur_images/cryptothumbsqr.png
 wide_image: assets/images/cryptocur_images/cryptothumbwide.png

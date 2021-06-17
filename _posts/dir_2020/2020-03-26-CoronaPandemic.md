@@ -2,7 +2,7 @@
 layout: post
 title:  "The Corona Pandemic"
 author: Vaishali
-categories: [ WHO, Pandemic, Health]
+categories: [ HEALTH]
 image: assets/images/Corona.jpg
 wide_image: assets/images/Corona.jpg
 thumb_image: assets/images/Corona_thumb.jpg
