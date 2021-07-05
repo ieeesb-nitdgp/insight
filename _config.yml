@@ -126,7 +126,13 @@ authors:
     name: Santam
     display_name: Santam Roy Choudhury
     avatar: "assets/images/santam.jpg"
-    description: "A buddying software developer and amateur night sky observer. Plan to make an atom bomb some day😉."
+    description: "A budding software developer and amateur night sky observer. Plan to make an atom bomb some day😉."
+    member: "true"
+  Durbar:
+    name: Durbar
+    display_name: Durbar Chakrabarty
+    avatar: "assets/images/2024/Durbar.jpeg"
+    description: "Learner. Getting nerdier by the day. Interested in Artificial Intelligence, Quantum Computing and Web Development."
     member: "true"
 
 # Plugins
