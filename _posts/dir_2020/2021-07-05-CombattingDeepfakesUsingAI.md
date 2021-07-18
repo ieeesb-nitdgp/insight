@@ -3,7 +3,7 @@ layout: post
 title:  "Combatting Deepfakes with AI"
 author: Durbar
 categories: [artificial intelligence, Deepfakes, Cybersecurity, Face Detection]
-image: assets/images/combatting_deepfakes-images/DF1.png
+image: assets/images/combatting_deepfakes-images/deepfake2.png
 wide_image: assets/images/combatting_deepfakes-images/deepfake2.jpg
 thumb_image: assets/images/combatting_deepfakes-images/deepfake1.jpg
 last_added: false
