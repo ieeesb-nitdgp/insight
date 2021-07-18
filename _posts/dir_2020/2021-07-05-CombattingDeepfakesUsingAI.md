@@ -4,8 +4,8 @@ title:  "Combatting Deepfakes with AI"
 author: Durbar
 categories: [artificial intelligence, Deepfakes, Cybersecurity, Face Detection]
 image: assets/images/combatting_deepfakes-images/DF1.png
-wide_image: assets/images/combatting_deepfakes-images/DF1.png
-thumb_image: assets/images/combatting_deepfakes-images/DF3.png
+wide_image: assets/images/combatting_deepfakes-images/deepfake2.jpg
+thumb_image: assets/images/combatting_deepfakes-images/deepfake1.jpg
 last_added: false
 hidden: false
 ---
