@@ -3,9 +3,9 @@ layout: post
 title:  "Cloud Computing"
 author: Nitin
 categories: [Cloud computing]
-image: assets/images/cc_wide.png
-wide_image: assets/images/cc_wide.png
-thumb_image: assets/images/cc_thumb.png
+image: assets/images/cloud_computing-images/cc_wide.png
+wide_image: assets/images/cloud_computing-images/cc_wide.png
+thumb_image: assets/images/cloud_computing-images/cc_thumb.png
 last_added: true
 hidden: false
 ---
