@@ -15,7 +15,7 @@ In this modern and rapidly advancing digital world, cloud computing has become a
 ### Cloud and cloud computing
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc1.jpg"/>
+ <img src="/assets/images/cloud_computing-images/cc1.jpg"/>
 </div>
 <br>
 
@@ -24,7 +24,7 @@ In this modern and rapidly advancing digital world, cloud computing has become a
 “Cloud computing” is the on-demand availability of different services on the internet for performing operations such as storing, managing and processing data on common storage that can be accessed from anywhere rather than one particular system. Instead of being stored directly on your device, cloud-based data is stored on servers owned by companies such as Amazon, Google and Microsoft and is made available to you via the internet.
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc2.png"/>
+ <img src="/assets/images/cloud_computing-images/cc2.png"/>
 </div>
 <br>
 
@@ -36,7 +36,7 @@ An internet network connection links the front end, which includes the accessing
 Communication between the front end and back end is managed by a central server. The central server can facilitate the exchange of data by relying on certain protocols. The central server manages connectivity between different client devices and cloud servers by using both middleware and software.
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc3.png"/>
+ <img src="/assets/images/cloud_computing-images/cc3.png"/>
 </div>
 <h6 style="text-align: center;">A Google data center</h6>
 <br>
@@ -50,7 +50,7 @@ Communication between the front end and back end is managed by a central server.
 1.	**Software as a Service (SaaS):** SaaS provides fully functional software hosted over cloud infrastructure on a subscription basis. This eliminates the need to install software on the computer of the user to use it.
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc4.jpg"/>
+ <img src="/assets/images/cloud_computing-images/cc4.jpg"/>
 </div>
 <br>
 
@@ -65,7 +65,7 @@ Communication between the front end and back end is managed by a central server.
 ### Advantages of cloud computing
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc5.png"/>
+ <img src="/assets/images/cloud_computing-images/cc5.png"/>
 </div>
 <br>
 
@@ -79,7 +79,7 @@ Communication between the front end and back end is managed by a central server.
 ### Is cloud computing truly a future technology?
 
 <div align="center">
- <img src="/assets/images/cloud-computing/cc6.jpg"/>
+ <img src="/assets/images/cloud_computing-images/cc6.jpg"/>
 </div>
 <br>
 
