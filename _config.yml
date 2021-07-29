@@ -134,12 +134,6 @@ authors:
     avatar: "assets/images/2024/Durbar.jpeg"
     description: "Learner. Getting nerdier by the day. Interested in Artificial Intelligence, Quantum Computing and Web Development."
     member: "true"
-  Nitin:
-    name: Nitin
-    display_name: Nitin Kushwaha
-    avatar: "assets/images/2024/Nitin.jpg"
-    description: "Tech-Savvy. Like innovation, problem solving, programming and development. Interested in AI."
-    member: "true"
 
 # Plugins
 plugins:
