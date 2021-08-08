@@ -103,12 +103,12 @@ Will future techno fashion be purely aesthetic - or will it expand our awareness
 **Do you think a spiderman costume can help you own the very “Peter Parker Powers”?**
 
 ### References:
-- https://docs.google.com/document/d/13TW4ABFIhXEjf1xEidEHc1fI7d7uLHopfL80iVA1hEM/edit?usp=sharing
-- http://finestshapes.com/smoke-dress-2/#
-- https://qz.com/504499/the-intel-powered-wings-on-this-dress-expand-when-your-adrenaline-spikes/
-- https://abcnews.go.com/Lifestyle/dress-future-protect-danger-make-fabulous/story?id=33714944
-- https://www.abitare.it/en/design-en/concept-en/2017/11/12/fashion-technology-wipprecht/
-- https://www.3dnatives.com/en/3d-printed-proximity-dress-050620204/
+- [https://docs.google.com/document/d/13TW4ABFIhXEjf1xEidEHc1fI7d7uLHopfL80iVA1hEM/edit?usp=sharing](https://docs.google.com/document/d/13TW4ABFIhXEjf1xEidEHc1fI7d7uLHopfL80iVA1hEM/edit?usp=sharing)
+- [http://finestshapes.com/smoke-dress-2/#](http://finestshapes.com/smoke-dress-2/#)
+- [https://qz.com/504499/the-intel-powered-wings-on-this-dress-expand-when-your-adrenaline-spikes/](https://qz.com/504499/the-intel-powered-wings-on-this-dress-expand-when-your-adrenaline-spikes/)
+- [https://abcnews.go.com/Lifestyle/dress-future-protect-danger-make-fabulous/story?id=33714944](https://abcnews.go.com/Lifestyle/dress-future-protect-danger-make-fabulous/story?id=33714944)
+- [https://www.abitare.it/en/design-en/concept-en/2017/11/12/fashion-technology-wipprecht/](https://www.abitare.it/en/design-en/concept-en/2017/11/12/fashion-technology-wipprecht/)
+- [https://www.3dnatives.com/en/3d-printed-proximity-dress-050620204/](https://www.3dnatives.com/en/3d-printed-proximity-dress-050620204/)
 - IEEE Robotics and Automation Society(Robotics Dresses and Emotional Interfaces Conference) ICRA 2019 ICRA X 
 
 **Note** :
