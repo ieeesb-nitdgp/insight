@@ -140,6 +140,13 @@ authors:
     avatar: "assets/images/2024/Nitin.jpg"
     description: "Tech-Savvy. Like innovation, problem solving, programming and development. Interested in AI."
     member: "true"
+  Arshia:
+    name: Arshia
+    display_name: Arshia Biswas
+    avatar: "assets/images/2024/Arshia.png"
+    description: "Tech-Savvy. Like innovation, problem solving, programming and development. Interested in AI."
+    member: "true"
+
 
 # Plugins
 plugins:
