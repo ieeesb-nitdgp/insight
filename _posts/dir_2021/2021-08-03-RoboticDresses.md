@@ -9,7 +9,7 @@ thumb_image: assets/images/robodress-images/rd_thumb.png
 last_added: true
 hidden: false
 ---
-Dresses having microcontroller heartbeats and that they normally get to have      batteries for dinner !! How does that sound to you? I wonder what it’s like in your mind’s eye? 
+Dresses having microcontroller heartbeats and that they normally get to have batteries for dinner !! How does that sound to you? I wonder what it’s like in your mind’s eye? 
 Something like this?
 
 <div align="center">
