@@ -3,9 +3,9 @@ layout: post
 title:  "Robotics Dresses and Emotional Interfaces"
 author: Arshia
 categories: [Robotics]
-image: assets/images/cloud_computing-images/robodress.jpeg
-wide_image:
-thumb_image:
+image: assets/images/robodress-images/rd_wide.png
+wide_image: assets/images/robodress-images/rd_wide.png
+thumb_image: assets/images/robodress-images/rd_thumb.png
 last_added: true
 hidden: false
 ---
