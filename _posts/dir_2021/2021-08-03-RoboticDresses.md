@@ -2,7 +2,7 @@
 layout: post
 title:  "Robotics Dresses and Emotional Interfaces"
 author: Arshia
-categories: [Robotics, Fashion Tech, Biosognals, Wearable Technology, 3D Printed Dresses]
+categories: [Robotics, Fashion-Tech, Biosignals, Wearable Technology, 3D Printed Dresses]
 image: assets/images/robodress-images/rd_wide.png
 wide_image: assets/images/robodress-images/rd_wide.png
 thumb_image: assets/images/robodress-images/rd_thumb.png
