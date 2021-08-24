@@ -146,7 +146,12 @@ authors:
     avatar: "assets/images/2024/Arshia.png"
     description: "Intuitive. Interested in Robotics, ML and Aliens."
     member: "true"
-
+  Manjari:
+    name: Manjari
+    display_name: Manjari Jha
+    avatar: "assets/images/2024/Manjari.jpeg"
+    description: "Philomath. Interested in Web development. Acquiring new skills and beyond everything, enjoying oneself."
+    member: "true"
 
 # Plugins
 plugins:
