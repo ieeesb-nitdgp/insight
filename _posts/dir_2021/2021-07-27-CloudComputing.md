@@ -6,7 +6,7 @@ categories: [Cloud computing]
 image: assets/images/cloud_computing-images/cc_wide.png
 wide_image: assets/images/cloud_computing-images/cc_wide.png
 thumb_image: assets/images/cloud_computing-images/cc_thumb.png
-last_added: true
+last_added: false
 hidden: false
 ---
 
