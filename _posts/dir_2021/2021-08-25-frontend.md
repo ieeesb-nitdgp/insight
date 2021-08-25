@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "Primary steps before diving into Front end development"
+author: Manjari
+categories: [WebDevelopment, Front-end ,UI,HTML, CSS , Developer]
+image: assets/images/robodress-images/rd_wide.png
+wide_image: assets/images/Primary steps before diving into Front end development-images/wide.png
+thumb_image: assets/images/Primary steps before diving into Front end development-images/thumb.png
+last_added: true
+hidden: false
+---
+
+ ### What is Front-end web development?
+
+Also known as *client site development* it is about creating a graphical User Interface(UI).All that you can see herein was made possible by a front-end developer with the use of three basic languages HTML, CSS, and Javascript.
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/main.png"/>
+</div>
+<br>
+
+The main objective in designing the front-end for a website is that when a user opens up the website he gets to see all important information in a charismatic and appealing way that is simple and easy to understand.
+
+ ### Why Front-end development?
+
+Many of you would have this question that why should you choose front-end development over other skills so some of the perks are listed here
+
+1. Frontend Developers are **always in demand** and are offered generous salaries across the globe.
+
+1. The skillset that you will acquire as a frontend developer will also help you work in **different fields** like mobile app development etc.
+
+1. The salary of a frontend developer **ranges from Rs 5,33,000 per annum to Rs 1,126,000 per annum.** Salaries range depending on your skill, experience, and frameworks.
+
+ ### Where should one begin?
+
+The question that every beginner has is where shall he begin. The extensive variety of content out there can leave one feeling perplexed about where to start. Many people are confused about whether it is better to read blogs? or Is it better to watch and learn from youtube videos? Or should one go for reading documentaries?
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/road.jpg"/>
+</div>
+<br>
+
+Fear not. We've lined up all the primary steps that are required as a front-end website developer. Here in the list given below we will guide you about what are the key steps for starting as a developer. Sounds good?
+
+ 
+- Firstly you should just go through documentation or video and learn about the **basics of HTML**.
+- Secondly, **learn CSS** again from whichever source you are comfortable in learning.
+- Thirdly, do not waste another second and **build a basic website** with all the basic knowledge that you have gained through documentation and tutorial videos.
+- Then keep on **learning new things every day** and implement them on your web page.
+- After you have gained enough knowledge about HTML & CSS then start **learning Javascript** which will add greater functionality to your website.
+- There you go after completing all the steps mentioned above now you can call yourself a Front-end web developer.
+
+ ### What language does a front-end web developer use?
+
+Frontend web developers use three programming languages for building up their websites live and interactive:-
+
+1. **HTML**
+
+1. **CSS**
+
+3. **Javascript**
+
+**HTML(Hypertext Markup Language):-** It is the *skeleton or backbone of any website* without this a web page can not exist. A markup language specifies that the text can be turned into images, links, videos, tables, etc. The HTML code gives a basic idea of how the website will look like.
+
+**CSS(Cascading Style Sheets):-** It is the flesh of our web page and *adds beauty and uniqueness to our website*. It does this by maintaining style sheets that sit on top of other style rules and are triggered based on other inputs. CSS is the simple mechanism for adding different styles to your website (color, font styling, spacing).
+
+
+**JavaScript:-** It is the **brain of our website and it lets us add a ton more functionality to our website and make it live**. Many websites use javascript(JS) to make their user interface easy and smooth (avoids reloading whenever the user pins to another page). Some JS frameworks give a ready-made structure for our javascript code, some of the most famous and commonly used JS frameworks are  AngularJS, Backbone, Ember, and ReactJS.
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/HTML.png"/>
+</div>
+<br>
+
+ ### Front end Frameworks 
+
+Also referred to as CSS frameworks these are *pre-written, standardized codes in files*.
+
+- It has got a **pre-built navbar, footer, carousel**, and many other components that are required in a website.
+
+- Frameworks help in making our **site responsive/mobile-first-sites by itself and no media query codes** are required to be written.
+
+- Instead of spending hours writing your code only to find out that it doesn't work, you will get already tested code that works for sure.
+
+Since writing thousands of lines of CSS gets hectic and may take a lot longer to launch your website so in that case, you can use Frameworks.
+
+Examples of front end frameworks:-
+
+**Bootstrap:** It is the world's most popular and easy-to-use framework. It has got a lot of documents and examples which is very useful for a beginner level developer. 
+
+**Foundation:** It helps in making beautiful responsive website designs. It is completely customizable as per the user's need. They are constantly adding new codes and designs to make your web pages interactive.
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/frontend_frameworks.png"/>
+</div>
+<br>
+
+ ### Javascript Frameworks
+
+
+JS has many different types of frameworks out of which the most popular ones are mentioned here. These **frameworks speed up your development** and can be used with JS libraries like jQuery which will reduce your work on writing tons of code.
+
+**React**:  It is an open-source front-end Javascript library. It was created by a team of Facebook developers and was firstly tested on Facebook's newsfeed. **React.js is braced by the majority of the developer community** and it brought interactive user interfaces mainly single-page web applications which are being used by most apps and websites.
+
+**Vue**: It is simple, unhindered, and accelerating in nature which adapts to the developer's needs. Vue has gained popularity in the last 2 years and is being used by some of the world's largest **companies like Adobe, Apple, BMW, Louis Vuitton**, etc.
+
+**Angular**: It is an open-source typescript framework created by Google Engineers. Inspiration to make Angular.js was taken from React and it is the most stable and secure JS framework. It is being used by millions of websites including Google, Microsoft, IBM, etc. 
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/js_frameworks.png"/>
+</div>
+<br>
+
+It is very important to note that these frameworks should be treated as a last resort. In the first place, you should get familiar with HTML & CSS, then later on you can use these frameworks as an alternative and focus more on functionality. *Frameworks shall be treated as one's adjutant, not a walking stick.*  
+
+ ### Responsive/Mobile Design 
+
+<div align="center">
+	<img src="/assets/images/robodress-images/responsive_design.png"/>
+</div>
+<br>
+
+The majority of people access websites from their *tablets, mobile phones, rather than using laptops or PCs* so it's really important for your website to be responsive so that the users get to see an appropriate view of what your web page contains. 
+
+ ### GIT 
+
+So to begin as a developer you should have a basic idea about GitHub 
+
+- Git is a free and open-source version control system. **It is one of the most widely used version control management systems**.
+
+
+- It helps to keep a record of all the changes that you have made in a project. It is designed to handle both major and minor projects.
+
+- By using GIT you can create different versions of your project and in case you want to jump back to your older versions you can easily do it using GIT.
+
+### References
+- [https://www.upgrad.com/blog/front-end-developer-salary-in-india-for-freshers-experienced/](https://www.upgrad.com/blog/front-end-developer-salary-in-india-for-freshers-experienced/)
+- [https://www.lambdatest.com/blog/best-javascript-framework-2020/](https://www.lambdatest.com/blog/best-javascript-framework-2020/)
+- [https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
+- [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+
+> **Note** :
+> Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.
