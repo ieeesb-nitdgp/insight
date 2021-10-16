@@ -2,7 +2,7 @@
 layout: post
 title:  "Teaching Computers to Understand Pictures"
 author: Arindam
-categories: [ARTIFICIAL INTELLIGENCE]
+categories: [Artificial Intelligence]
 image: assets/images/imgrecog.png
 wide_image: assets/images/imgrecog.png
 thumb_image: assets/images/imgrecogb.png
