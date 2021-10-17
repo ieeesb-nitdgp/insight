@@ -2,7 +2,7 @@
 layout: post
 title:  "Vacations Utilized"
 author: Arka
-categories: [COLLEGE BREAKS]
+categories: [Miscellaneous]
 image: assets/images/CollegeBreak.jpg
 wide_image: assets/images/mainpic.jpg
 thumb_image: assets/images/CollegeBreak.jpg

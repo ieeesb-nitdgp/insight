@@ -2,7 +2,7 @@
 layout: post
 title:  "Game Stream"
 author: Arka
-categories: [INTERNET]
+categories: [Miscellaneous]
 image: assets/images/Game-Stream-Images/game-stream-thumb.jpg
 wide_image: assets/images/Game-Stream-Images/game-stream-thumb_big.jpg
 thumb_image: assets/images/Game-Stream-Images/game-stream-thumb.jpg

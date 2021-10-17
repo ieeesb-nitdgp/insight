@@ -3,7 +3,7 @@ layout: post
 title: "Nanotechnology"
 author: Akshat
 categories:
-  [NANOSCIENCE]
+  [Miscellaneous]
 image: assets/images/Nanotechnology_images/title1024X617.png
 wide_image: assets/images/Nanotechnology_images/title1024X617.png
 thumb_image: assets/images/Nanotechnology_images/thumb500x500.png
