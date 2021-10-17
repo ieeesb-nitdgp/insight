@@ -6,7 +6,7 @@ categories: [Robotics]
 image: assets/images/robodress-images/rd_wide.png
 wide_image: assets/images/robodress-images/rd_wide.png
 thumb_image: assets/images/robodress-images/rd_thumb.png
-last_added: true
+last_added: false
 hidden: false
 ---
 Dresses having microcontroller heartbeats and that they normally get to have batteries for dinner !! How does that sound to you? I wonder what it’s like in your mind’s eye? 

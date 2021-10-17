@@ -152,6 +152,12 @@ authors:
     avatar: "assets/images/2024/Manjari.jpeg"
     description: "Philomath. Interested in Web development. Acquiring new skills and beyond everything, enjoying oneself."
     member: "true"
+  Sreemoyee:
+    name: Sreemoyee
+    display_name: Sreemoyee Sadhukhan
+    avatar: "assets/images/2024/Sreemoyee.jpg"
+    description: "Passionate tech enthusiast. Interested in IoT, Web development and ML."
+    member: "true"
 
 # Plugins
 plugins:
