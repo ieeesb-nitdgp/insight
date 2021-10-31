@@ -3,7 +3,7 @@ layout: post
 title:  "Actuation and Legged Locomotion in Robots"
 author: Shaily
 categories: [Robotics]
-image: assets/images/locomotion_images/loco1024.png
+image: assets/images/locomotion_images/loco1024.jpg
 wide_image: assets/images/locomotion_images/loco1024.jpg
 thumb_image: assets/images/locomotion_images/loco500.jpg
 last_added: true
@@ -34,33 +34,31 @@ The motion of a walking robot is carried out with the help of reaction forces wh
 ### Actuation and Its Methods
 The basic action of causing a machine or a robot to move or operate is referred to as actuation. For the dynamics of locomotion in legged robots, we need to explore the various ways in which actuation can be carried out.
 
-1. **Hydraulic Actuation**
+- **Hydraulic Actuation**
+
 This method has some extremely lucid benefits. These actuators make use of hydraulic oil which provides efficient force density, high power, and extra robustness to impacts. However, the stumbling block in the development of hydraulic actuation is the energetic inefficiency due to the fluid viscous loss and leakage of the servo valve. 
-<br>
+
 Here is an example of a Hy-Mo hydraulic system wherein, with the servo valve, the leakage is only 10% then it is otherwise.
 <div align="center">
  <img src="/assets/images/locomotion_images/hydraulic.png"/>
 </div>
-<br>
 
+- **Quasi Direct Drive(QDD) Actuation**
 
-
-2. **Quasi Direct Drive(QDD) Actuation**
 To maintain torque control across high bandwidth, the reduction ratio shall be lowered. Such actuators with considerably low reduction ratios are called quasi-direct drive (QDD) actuators. This single-stage increases torque output at the expense of control bandwidth but maintains the ability to back drive the motor for dynamic locomotion. A QDD actuator also ensures transparency in terms of inertia wherein the reflected inertia is much feeble in comparison to the output inertia. Although QDD actuator is used in MIT Cheetah robots which are small legged, for large-scale legged robots, low gear reduction ratio is insufficient to meet its needs.
-
 <div align="center">
  <img src="/assets/images/locomotion_images/cheetah.png"/>
 </div>
 <h6 style="text-align: center;">MIT Cheetah</h6>
-<br>
 
-3. **Serial Elastic Actuation(SEA)**
+- **Serial Elastic Actuation(SEA)**
+
 This actuation is most virtuous in compensating for the low torque output of the QDD system. Application of series elasticity to these systems ensures force-controllable actuation with low friction, low impedance, and good bandwidth helping us achieve high-quality force control. The output torque can be controlled by spring deflection while the elastic element stores energy and increases peak power. The fundamentals of this application are derived from Hooke’s law.
 
 <div align="center">
  <img src="/assets/images/locomotion_images/sea.png"/>
 </div>
-
+<br>
 
 ### Sensory Perception
 Both proprioceptive(IMU, encoders, torque sensors) and exteroceptive sensors(RGB-D, CCD, CMOS sensors) are used to measure environmental information. Although RGB-D sensors provide depth estimation, its perception is limited to less than 5m.
