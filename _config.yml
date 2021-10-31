@@ -158,6 +158,12 @@ authors:
     avatar: "assets/images/2024/Sreemoyee.jpg"
     description: "Passionate tech enthusiast. Interested in IoT, Web development and ML."
     member: "true"
+  Shaily:
+    name: Shaily
+    display_name: Shaily Shekhar
+    avatar: "assets/images/2024/Shaily.png"
+    description: "Striving hard to go places. Loves to explore. Keen interest in Robotics, development and well music!"
+    member: "true"
 
 # Plugins
 plugins:
