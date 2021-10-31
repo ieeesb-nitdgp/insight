@@ -2,7 +2,7 @@
 layout: post
 title:  "Actuation and Legged Locomotion in Robots"
 author: Shaily
-categories: [robotics locomotion humanoids actuation ]
+categories: [Robotics]
 image: assets/images/locomotion_images/loco1024.png
 wide_image: assets/images/locomotion_images/loco1024.jpg
 thumb_image: assets/images/locomotion_images/loco500.jpg
