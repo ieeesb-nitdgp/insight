@@ -1,0 +1,114 @@
+I"�<p>It all started with 1G and presently we are dealing with 4G LTE. But demands for higher data speeds, higher
+bandwidth applications have increased tremendously and had set the stage for 5G technology to take
+over and cater to the following demands:</p>
+
+<ul>
+  <li>Smart Cities</li>
+  <li>Vehicle to Everything(V2X) in Intelligent Transport Systems</li>
+  <li>E-Health/Cloud Robotic Surgeries</li>
+  <li>5G in IoT</li>
+  <li>Remote Control of Industries</li>
+</ul>
+
+<p><img src="/assets/images/use5g.jpg" alt="use of 5g" /></p>
+
+<p><br /></p>
+
+<h2 id="5-backbones-for-5g">5 Backbones For 5G</h2>
+
+<ol>
+  <li>Today, we are using the same radio frequency ( <em>6 GHz</em> ) bands for our data and voice telephony
+making those bands congested and increasing delays. This problem can be solved by
+implementing the <strong>mm Wave</strong> technology which works on completely different frequencies of
+<em>30GHz to 300GHz</em>.</li>
+</ol>
+
+<p><img src="/assets/images/freq5g.jpg" alt="mm wave" /></p>
+
+<ol>
+  <li>But the problem is, these can’t pass through buildings and easily sabotage to bad weather. This
+problem can be solved using the availability of traditional towers where we can augment <strong>small</strong>
+<strong>cells</strong> every quarter kilometer which will work as relay-network. Small Cells are small portable base
+stations.</li>
+  <li>5G base stations can support about a hundred ports, which means more antennas can fit on a
+single array which can be used for <strong>massive MIMO (Multi Input Multi Output)</strong> implementation
+which increases the network capacity by a factor of 22, but increases interference as well.</li>
+</ol>
+
+<p><img src="/assets/images/tower5g.jpg" alt="towers" /></p>
+
+<ol>
+  <li>The <strong>Beamforming</strong> technique can reduce interference and delivers the data through the most
+efficient route complimenting <em>massive MIMO</em>.</li>
+  <li>Besides all these, we can try to even lower the latency and produce high throughput using <strong>full</strong>
+<strong>duplex</strong> implementation. Picture two trains going through each other using the same route but
+not destroying each other. That’s <em>Full Duplex</em> in a nutshell.</li>
+</ol>
+
+<p><img src="/assets/images/1ghz.jpg" alt="duplex" /></p>
+
+<p><br /></p>
+
+<h2 id="current-state-of-5g-deployment">Current State of 5G Deployment</h2>
+
+<p>According to a report titled <em>THE STATE OF 5G DEPLOYMENTS</em> by <em>VIAVI</em> , 5G is spread across 378 cities of 3 4
+countries around the globe (as of January 2020). South Korea with 85 cities tops the chart while China and
+US follow with 57 and 50 cities respectively. UK with 31 cities comes next to the tally.</p>
+
+<p><img src="/assets/images/pie5g.JPG" alt="pie" /></p>
+
+<h2 id="most-beneficial-use-cases-for-us">Most Beneficial Use Cases for us</h2>
+
+<ul>
+  <li><strong>Robotic Surgery</strong> : Imagine a doctor doing surgery without even going close to the patient and by
+just operating a robot from a whole different place or even a continent. That’s possible due to the
+<em>low latency</em> 5G application.</li>
+</ul>
+
+<p><img src="/assets/images/doc5g.jpg" alt="" /></p>
+
+<ul>
+  <li>
+    <p><strong>Immersive entertainment</strong> : AR-VR applications found great use of <em>low latency and high data rates</em>.</p>
+  </li>
+  <li><strong>Video surveillance</strong> : Connected drones can be used to monitor one local geographical area and
+mapping it for analysis purposes.</li>
+  <li><strong>Connected Vehicles</strong> : Where vehicles communicate with almost everything and are smart enough
+to self-drive. Note 5G is a very good accessory for a self-driving vehicle but not the only one.</li>
+</ul>
+
+<p><img src="/assets/images/game5g.jpg" alt="" /></p>
+
+<h2 id="what-5g-is-not-about-and-its-shortcomings">What 5G is NOT about and its shortcomings</h2>
+
+<p>5G is not here to eliminate the existing 4G environment, rather it should be used in conjunction with
+previous generation networks to cater to specific demands. It’s still not so reliable under indoors and the
+5G network that we will be getting in the near future is not the high-speed 5G which uses <em>mm Wave</em> but
+will be <em>Sub 6GHz 5G</em> but that is still faster than fastest of 4G. Implementation of 5G will definitely improve
+the lives of humans and we will be ever more connected with devices and our work culture will
+substantially change for a good.</p>
+
+<p>5G implementation around the globe is done in small clusters and we are yet to see these in India. Surely
+the <em>novel coronavirus (SARS COV2)</em> pandemic has thrashed the 5G and 5G+ plans, but the world will sooner
+pick its pace and we will be able to enjoy the services which it has to offer.</p>
+
+<h2 id="references">References:</h2>
+
+<ul>
+  <li>
+    <p><a href="https://spectrum.ieee.org/video/telecom/wireless/everything-you-need-to-know-about-5g">https://spectrum.ieee.org/video/telecom/wireless/everything-you-need-to-know-about-5g</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.techrepublic.com/article/5g-expands-to-378-cities-across-34-countries/">https://www.techrepublic.com/article/5g-expands-to-378-cities-across-34-countries/</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.nokia.com/networks/5g/use-cases/">https://www.nokia.com/networks/5g/use-cases/</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.qualcomm.com/invention/5g">https://www.qualcomm.com/invention/5g</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.phonearena.com/news/HTC-5G-smartphone-official-documents_id">https://www.phonearena.com/news/HTC-5G-smartphone-official-documents_id</a></p>
+  </li>
+</ul>
+:ET

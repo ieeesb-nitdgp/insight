@@ -1,0 +1,158 @@
+I"�&<h3 id="what-is-front-end-web-development">What is Front-end web development?</h3>
+
+<p>Also known as <em>client site development</em> it is about creating a graphical User Interface(UI).All that you can see herein was made possible by a front-end developer with the use of three basic languages HTML, CSS, and Javascript.</p>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/main.png" />
+</div>
+<p><br /></p>
+
+<p>The main objective in designing the front-end for a website is that when a user opens up the website he gets to see all important information in a charismatic and appealing way that is simple and easy to understand.</p>
+
+<h3 id="why-front-end-development">Why Front-end development?</h3>
+
+<p>Many of you would have this question that why should you choose front-end development over other skills so some of the perks are listed here</p>
+
+<ol>
+  <li>
+    <p>Frontend Developers are <strong>always in demand</strong> and are offered generous salaries across the globe.</p>
+  </li>
+  <li>
+    <p>The skillset that you will acquire as a frontend developer will also help you work in <strong>different fields</strong> like mobile app development etc.</p>
+  </li>
+  <li>
+    <p>The salary of a frontend developer <strong>ranges from Rs 5,33,000 per annum to Rs 1,126,000 per annum.</strong> Salaries range depending on your skill, experience, and frameworks.</p>
+  </li>
+</ol>
+
+<h3 id="where-should-one-begin">Where should one begin?</h3>
+
+<p>The question that every beginner has is where shall he begin. The extensive variety of content out there can leave one feeling perplexed about where to start. Many people are confused about whether it is better to read blogs? or Is it better to watch and learn from youtube videos? Or should one go for reading documentaries?</p>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/road.jpg" />
+</div>
+<p><br /></p>
+
+<p>Fear not. We’ve lined up all the primary steps that are required as a front-end website developer. Here in the list given below we will guide you about what are the key steps for starting as a developer. Sounds good?</p>
+
+<ul>
+  <li>Firstly you should just go through documentation or video and learn about the <strong>basics of HTML</strong>.</li>
+  <li>Secondly, <strong>learn CSS</strong> again from whichever source you are comfortable in learning.</li>
+  <li>Thirdly, do not waste another second and <strong>build a basic website</strong> with all the basic knowledge that you have gained through documentation and tutorial videos.</li>
+  <li>Then keep on <strong>learning new things every day</strong> and implement them on your web page.</li>
+  <li>After you have gained enough knowledge about HTML &amp; CSS then start <strong>learning Javascript</strong> which will add greater functionality to your website.</li>
+  <li>There you go after completing all the steps mentioned above now you can call yourself a Front-end web developer.</li>
+</ul>
+
+<h3 id="what-language-does-a-front-end-web-developer-use">What language does a front-end web developer use?</h3>
+
+<p>Frontend web developers use three programming languages for building up their websites live and interactive:-</p>
+
+<ol>
+  <li>
+    <p><strong>HTML</strong></p>
+  </li>
+  <li>
+    <p><strong>CSS</strong></p>
+  </li>
+  <li>
+    <p><strong>Javascript</strong></p>
+  </li>
+</ol>
+
+<p><strong>HTML(Hypertext Markup Language):-</strong> It is the <em>skeleton or backbone of any website</em> without this a web page can not exist. A markup language specifies that the text can be turned into images, links, videos, tables, etc. The HTML code gives a basic idea of how the website will look like.</p>
+
+<p><strong>CSS(Cascading Style Sheets):-</strong> It is the flesh of our web page and <em>adds beauty and uniqueness to our website</em>. It does this by maintaining style sheets that sit on top of other style rules and are triggered based on other inputs. CSS is the simple mechanism for adding different styles to your website (color, font styling, spacing).</p>
+
+<p><strong>JavaScript:-</strong> It is the <strong>brain of our website and it lets us add a ton more functionality to our website and make it live</strong>. Many websites use javascript(JS) to make their user interface easy and smooth (avoids reloading whenever the user pins to another page). Some JS frameworks give a ready-made structure for our javascript code, some of the most famous and commonly used JS frameworks are  AngularJS, Backbone, Ember, and ReactJS.</p>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/HTML.PNG" />
+</div>
+<p><br /></p>
+
+<h3 id="front-end-frameworks">Front end Frameworks</h3>
+
+<p>Also referred to as CSS frameworks these are <em>pre-written, standardized codes in files</em>.</p>
+
+<ul>
+  <li>
+    <p>It has got a <strong>pre-built navbar, footer, carousel</strong>, and many other components that are required in a website.</p>
+  </li>
+  <li>
+    <p>Frameworks help in making our <strong>site responsive/mobile-first-sites by itself and no media query codes</strong> are required to be written.</p>
+  </li>
+  <li>
+    <p>Instead of spending hours writing your code only to find out that it doesn’t work, you will get already tested code that works for sure.</p>
+  </li>
+</ul>
+
+<p>Since writing thousands of lines of CSS gets hectic and may take a lot longer to launch your website so in that case, you can use Frameworks.</p>
+
+<p>Examples of front end frameworks:-</p>
+
+<p><strong>Bootstrap:</strong> It is the world’s most popular and easy-to-use framework. It has got a lot of documents and examples which is very useful for a beginner level developer.</p>
+
+<p><strong>Foundation:</strong> It helps in making beautiful responsive website designs. It is completely customizable as per the user’s need. They are constantly adding new codes and designs to make your web pages interactive.</p>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/frontend_frameworks.PNG" />
+</div>
+<p><br /></p>
+
+<h3 id="javascript-frameworks">Javascript Frameworks</h3>
+
+<p>JS has many different types of frameworks out of which the most popular ones are mentioned here. These <strong>frameworks speed up your development</strong> and can be used with JS libraries like jQuery which will reduce your work on writing tons of code.</p>
+
+<p><strong>React</strong>:  It is an open-source front-end Javascript library. It was created by a team of Facebook developers and was firstly tested on Facebook’s newsfeed. <strong>React.js is braced by the majority of the developer community</strong> and it brought interactive user interfaces mainly single-page web applications which are being used by most apps and websites.</p>
+
+<p><strong>Vue</strong>: It is simple, unhindered, and accelerating in nature which adapts to the developer’s needs. Vue has gained popularity in the last 2 years and is being used by some of the world’s largest <strong>companies like Adobe, Apple, BMW, Louis Vuitton</strong>, etc.</p>
+
+<p><strong>Angular</strong>: It is an open-source typescript framework created by Google Engineers. Inspiration to make Angular.js was taken from React and it is the most stable and secure JS framework. It is being used by millions of websites including Google, Microsoft, IBM, etc.</p>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/js_frameworks.PNG" />
+</div>
+<p><br /></p>
+
+<p>It is very important to note that these frameworks should be treated as a last resort. In the first place, you should get familiar with HTML &amp; CSS, then later on you can use these frameworks as an alternative and focus more on functionality. <em>Frameworks shall be treated as one’s adjutant, not a walking stick.</em></p>
+
+<h3 id="responsivemobile-design">Responsive/Mobile Design</h3>
+
+<div align="center">
+	<img src="/assets/images/Primary steps before diving into Front end development-images/responsive_design.PNG" />
+</div>
+<p><br /></p>
+
+<p>The majority of people access websites from their <em>tablets, mobile phones, rather than using laptops or PCs</em> so it’s really important for your website to be responsive so that the users get to see an appropriate view of what your web page contains.</p>
+
+<h3 id="git">GIT</h3>
+
+<p>So to begin as a developer you should have a basic idea about GitHub</p>
+
+<ul>
+  <li>
+    <p>Git is a free and open-source version control system. <strong>It is one of the most widely used version control management systems</strong>.</p>
+  </li>
+  <li>
+    <p>It helps to keep a record of all the changes that you have made in a project. It is designed to handle both major and minor projects.</p>
+  </li>
+  <li>
+    <p>By using GIT you can create different versions of your project and in case you want to jump back to your older versions you can easily do it using GIT.</p>
+  </li>
+</ul>
+
+<h3 id="references">References</h3>
+<ul>
+  <li><a href="https://www.upgrad.com/blog/front-end-developer-salary-in-india-for-freshers-experienced/">https://www.upgrad.com/blog/front-end-developer-salary-in-india-for-freshers-experienced/</a></li>
+  <li><a href="https://www.lambdatest.com/blog/best-javascript-framework-2020/">https://www.lambdatest.com/blog/best-javascript-framework-2020/</a></li>
+  <li><a href="https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html">https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html</a></li>
+  <li><a href="https://www.w3schools.com/html/default.asp">https://www.w3schools.com/html/default.asp</a></li>
+</ul>
+
+<blockquote>
+  <p><strong>Note</strong> :
+Utmost care has been taken to credit the original authors/sources and to make these as apt as possible.</p>
+</blockquote>
+:ET
