@@ -3,9 +3,9 @@ layout: post
 title:  "Mind Reading Using Artificial Intelligence"
 author: Sharmistha
 categories: [Artificial intelligence]
-image: 
-wide_image: 
-thumb_image: 
+image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
+wide_image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
+thumb_image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
 last_added: false
 hidden: false
 ---
