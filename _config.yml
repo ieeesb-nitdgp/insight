@@ -164,6 +164,12 @@ authors:
     avatar: "assets/images/2024/Shaily.png"
     description: "Striving hard to go places. Loves to explore. Keen interest in Robotics, development and well music!"
     member: "true"
+  Sharmistha:
+    name: Sharmistha
+    display_name: Sharmistha Karmakar
+    avatar: "assets/images/2024/Sharmistha.jpg"
+    description: "Innovative Techie. Loves to learn new things and turn great ideas into reality!"
+    member: "true"
 
 # Plugins
 plugins:
