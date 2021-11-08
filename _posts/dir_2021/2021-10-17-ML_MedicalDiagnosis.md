@@ -6,7 +6,7 @@ categories: [artificial intelligence]
 image: assets/images/ML_medical_diagnosis/ml_wide.png
 wide_image: assets/images/ML_medical_diagnosis/ml_wide.png
 thumb_image: assets/images/ML_medical_diagnosis/ml_thumb.png
-last_added: true
+last_added: false
 hidden: false
 ---
 
