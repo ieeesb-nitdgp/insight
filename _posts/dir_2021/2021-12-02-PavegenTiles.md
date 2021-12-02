@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pavegen Tiles: Harvesting Energy from Footsteps"
-author: author
+author: Alik
 categories: [Renewable Energy]
 image: assets/images/pavegen-images/pavegen_blog_1024.png
 wide_image: assets/images/pavegen-images/pavegen_blog_1024.png
