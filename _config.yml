@@ -170,6 +170,12 @@ authors:
     avatar: "assets/images/2024/Sharmistha.jpg"
     description: "Innovative Techie. Loves to learn new things and turn great ideas into reality!"
     member: "true"
+  Alik:
+    name: Alik
+    display_name: Alik Ghosh
+    avatar: "assets/images/2024/Alik.png"
+    description: " "
+    member: "true"
 
 # Plugins
 plugins:
