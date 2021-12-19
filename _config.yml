@@ -176,6 +176,12 @@ authors:
     avatar: "assets/images/2024/Alik.png"
     description: "Tech and research enthusiast. Intends to solve real-life problems."
     member: "true"
+  Sandeep:
+    name: Sandeep
+    display_name: Sandeep Sahoo
+    avatar: "assets/images/2024/Sandeep.png"
+    description: "Can keep my cool under stress"
+    member: "true"
 
 # Plugins
 plugins:
