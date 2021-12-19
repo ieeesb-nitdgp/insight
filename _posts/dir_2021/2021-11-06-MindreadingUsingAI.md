@@ -6,7 +6,7 @@ categories: [Artificial intelligence]
 image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
 wide_image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
 thumb_image: assets/images/mind_reading_images/mindreadingusingAI1024x617.png
-last_added: true
+last_added: false
 hidden: false
 ---
 AI has always been stealing the limelight, and here we are today, with AI we can read thoughts based on brain activity or as we call it Mind Reading.
