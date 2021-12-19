@@ -6,7 +6,7 @@ categories: [Robotics]
 image: assets/images/locomotion_images/loco1024.jpg
 wide_image: assets/images/locomotion_images/loco1024.jpg
 thumb_image: assets/images/locomotion_images/loco500.jpg
-last_added: true
+last_added: false
 hidden: false
 ---
 In this advancing era of robotics technology, it comes to us as no surprise that soon such captivating automatons will take on becoming an indispensable part of our lives in facilitating rudimentary tasks amidst making things easier in the mere future.
