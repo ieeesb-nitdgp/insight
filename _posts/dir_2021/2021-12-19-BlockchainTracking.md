@@ -74,7 +74,7 @@ Right at this moment, companies like Evernym, Sovrin, are racing to develop more
 Currently, the market relies on companies such as Equifax, which rely on client-server systems to maintain their databases.
 
 <div align="center">
- <img src="/assets/images/blockcain_tracking/blockchain_3.png"/>
+ <img src="/assets/images/blockchain_tracking/blockchain_3.png"/>
 </div>
 <br>
 
